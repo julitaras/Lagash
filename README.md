@@ -1,2 +1,2 @@
 # Lagash
-Vamos a subir archivos para practicar como usar github
+Primeras practicas de Lagash U
